@@ -67,3 +67,13 @@ container.appendChild(divFourteen);
 container.appendChild(divFifteen);
 container.appendChild(divSixteen);
 
+function changeColor () {
+    // Here I will designate the switch conditions for the color changes of the divs.
+}
+
+document.getElementById('container').addEventListener('mouseover', (e) => {
+    
+
+    
+});
+

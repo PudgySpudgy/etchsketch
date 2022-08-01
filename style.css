@@ -1,0 +1,22 @@
+* {
+    /* background-color: lime; */
+}
+
+#container {
+    /* background-color: blue; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box {
+    background-color: cornflowerblue;
+    margin: 2px;
+    min-width: 20%;
+    min-height: 50px;
+
+}
+
+/* .box:hover { */
+    /* background-color: chartreuse; */
+}

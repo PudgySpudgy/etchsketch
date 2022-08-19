@@ -1,5 +1,5 @@
-const container = document.getElementById('container');
-const divOne = document.createElement('div');
+// const container = document.getElementById('container');
+// const divOne = document.createElement('div');
 const divTwo = document.createElement('div');
 const divThree = document.createElement('div');
 const divFour = document.createElement('div');
@@ -56,7 +56,7 @@ container.appendChild(divThree);
 container.appendChild(divFour);
 container.appendChild(divFive);
 container.appendChild(divSix);
-container.appendChild(divSeven);20%
+container.appendChild(divSeven);
 container.appendChild(divEight);
 container.appendChild(divNine);
 container.appendChild(divTen);

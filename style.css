@@ -3,20 +3,18 @@
 }
 
 #container {
-    /* background-color: blue; */
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    background-color: blue;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 
-.box {
-    background-color: cornflowerblue;
+/* .box { */
+    /* background-color: cornflowerblue;
     margin: 2px;
     min-width: 20%;
     min-height: 50px;
 
 }
 
-/* .box:hover { */
+.box:hover {
     /* background-color: chartreuse; */
-/* } This is what I am going to attempt w/i JS.
+/* } This is what I am going to attempt w/i JS. */
